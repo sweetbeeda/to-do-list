@@ -83,7 +83,7 @@ body {
   border-radius: 8px;
   transition: 300ms;
 }
-. list-item:hover {
+.list-item:hover {
   background-color: #5a4935;
   color: #c6ac8f;
   cursor: pointer;
